@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RIMASSPROJECT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44cf56e8089bf8b1128a6a0effad03a1f921ec1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1e0f0378937fa1f9e9bf8b024d1fd2bea5e8885")]
 [assembly: System.Reflection.AssemblyProductAttribute("RIMASSPROJECT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RIMASSPROJECT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
